@@ -1,0 +1,52 @@
+
+Disparando www.google.com.br [142.250.218.195] com 32 bytes de dados:
+Resposta de 142.250.218.195: bytes=32 tempo=293ms TTL=114
+Resposta de 142.250.218.195: bytes=32 tempo=241ms TTL=114
+Resposta de 142.250.218.195: bytes=32 tempo=240ms TTL=114
+Resposta de 142.250.218.195: bytes=32 tempo=275ms TTL=114
+
+Estat¡sticas do Ping para 142.250.218.195:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 240ms, M ximo = 293ms, M‚dia = 262ms
+============================================================== 
+
+Disparando dftex7xfha8fh.cloudfront.net [13.227.97.71] com 32 bytes de dados:
+Resposta de 13.227.97.71: bytes=32 tempo=275ms TTL=240
+Resposta de 13.227.97.71: bytes=32 tempo=311ms TTL=240
+Resposta de 13.227.97.71: bytes=32 tempo=353ms TTL=240
+Resposta de 13.227.97.71: bytes=32 tempo=357ms TTL=240
+
+Estat¡sticas do Ping para 13.227.97.71:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 275ms, M ximo = 357ms, M‚dia = 324ms
+============================================================== 
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Resposta de 8.8.8.8: bytes=32 tempo=391ms TTL=56
+Resposta de 8.8.8.8: bytes=32 tempo=417ms TTL=56
+Resposta de 8.8.8.8: bytes=32 tempo=175ms TTL=56
+Resposta de 8.8.8.8: bytes=32 tempo=534ms TTL=56
+
+Estat¡sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 175ms, M ximo = 534ms, M‚dia = 379ms
+============================================================== 
+
+Disparando star-mini.c10r.facebook.com [157.240.226.35] com 32 bytes de dados:
+Resposta de 157.240.226.35: bytes=32 tempo=443ms TTL=53
+Resposta de 157.240.226.35: bytes=32 tempo=443ms TTL=53
+Resposta de 157.240.226.35: bytes=32 tempo=381ms TTL=53
+Resposta de 157.240.226.35: bytes=32 tempo=358ms TTL=53
+
+Estat¡sticas do Ping para 157.240.226.35:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 358ms, M ximo = 443ms, M‚dia = 406ms
+============================================================== 
