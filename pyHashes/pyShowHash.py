@@ -1,5 +1,4 @@
 
-from email.policy import default
 import hashlib
 
 print('\n=== PY GERADOR DE HASHES ===')
