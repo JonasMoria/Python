@@ -20,3 +20,7 @@ try:
 finally:
     print("Cliente: Saindo....")
     strCon.close()
+
+
+#evitando que o terminal feche após a execução do programa
+input("Pressione ENTER para sair...")

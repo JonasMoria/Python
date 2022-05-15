@@ -1,52 +1,52 @@
 
-Disparando www.google.com.br [142.250.218.195] com 32 bytes de dados:
-Resposta de 142.250.218.195: bytes=32 tempo=293ms TTL=114
-Resposta de 142.250.218.195: bytes=32 tempo=241ms TTL=114
-Resposta de 142.250.218.195: bytes=32 tempo=240ms TTL=114
-Resposta de 142.250.218.195: bytes=32 tempo=275ms TTL=114
+Disparando www.google.com.br [142.250.219.163] com 32 bytes de dados:
+Resposta de 142.250.219.163: bytes=32 tempo=16ms TTL=55
+Resposta de 142.250.219.163: bytes=32 tempo=81ms TTL=55
+Resposta de 142.250.219.163: bytes=32 tempo=16ms TTL=55
+Resposta de 142.250.219.163: bytes=32 tempo=15ms TTL=55
 
-Estat¡sticas do Ping para 142.250.218.195:
+Estat¡sticas do Ping para 142.250.219.163:
     Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
              perda),
 Aproximar um n£mero redondo de vezes em milissegundos:
-    M¡nimo = 240ms, M ximo = 293ms, M‚dia = 262ms
+    M¡nimo = 15ms, M ximo = 81ms, M‚dia = 32ms
 ============================================================== 
 
-Disparando dftex7xfha8fh.cloudfront.net [13.227.97.71] com 32 bytes de dados:
-Resposta de 13.227.97.71: bytes=32 tempo=275ms TTL=240
-Resposta de 13.227.97.71: bytes=32 tempo=311ms TTL=240
-Resposta de 13.227.97.71: bytes=32 tempo=353ms TTL=240
-Resposta de 13.227.97.71: bytes=32 tempo=357ms TTL=240
+Disparando dftex7xfha8fh.cloudfront.net [65.8.210.49] com 32 bytes de dados:
+Resposta de 65.8.210.49: bytes=32 tempo=14ms TTL=239
+Resposta de 65.8.210.49: bytes=32 tempo=14ms TTL=239
+Resposta de 65.8.210.49: bytes=32 tempo=16ms TTL=239
+Resposta de 65.8.210.49: bytes=32 tempo=48ms TTL=239
 
-Estat¡sticas do Ping para 13.227.97.71:
+Estat¡sticas do Ping para 65.8.210.49:
     Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
              perda),
 Aproximar um n£mero redondo de vezes em milissegundos:
-    M¡nimo = 275ms, M ximo = 357ms, M‚dia = 324ms
+    M¡nimo = 14ms, M ximo = 48ms, M‚dia = 23ms
 ============================================================== 
 
 Disparando 8.8.8.8 com 32 bytes de dados:
-Resposta de 8.8.8.8: bytes=32 tempo=391ms TTL=56
-Resposta de 8.8.8.8: bytes=32 tempo=417ms TTL=56
-Resposta de 8.8.8.8: bytes=32 tempo=175ms TTL=56
-Resposta de 8.8.8.8: bytes=32 tempo=534ms TTL=56
+Resposta de 8.8.8.8: bytes=32 tempo=16ms TTL=58
+Resposta de 8.8.8.8: bytes=32 tempo=64ms TTL=58
+Resposta de 8.8.8.8: bytes=32 tempo=16ms TTL=58
+Resposta de 8.8.8.8: bytes=32 tempo=14ms TTL=58
 
 Estat¡sticas do Ping para 8.8.8.8:
     Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
              perda),
 Aproximar um n£mero redondo de vezes em milissegundos:
-    M¡nimo = 175ms, M ximo = 534ms, M‚dia = 379ms
+    M¡nimo = 14ms, M ximo = 64ms, M‚dia = 27ms
 ============================================================== 
 
 Disparando star-mini.c10r.facebook.com [157.240.226.35] com 32 bytes de dados:
-Resposta de 157.240.226.35: bytes=32 tempo=443ms TTL=53
-Resposta de 157.240.226.35: bytes=32 tempo=443ms TTL=53
-Resposta de 157.240.226.35: bytes=32 tempo=381ms TTL=53
-Resposta de 157.240.226.35: bytes=32 tempo=358ms TTL=53
+Resposta de 157.240.226.35: bytes=32 tempo=13ms TTL=52
+Resposta de 157.240.226.35: bytes=32 tempo=18ms TTL=52
+Resposta de 157.240.226.35: bytes=32 tempo=37ms TTL=52
+Resposta de 157.240.226.35: bytes=32 tempo=38ms TTL=52
 
 Estat¡sticas do Ping para 157.240.226.35:
     Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
              perda),
 Aproximar um n£mero redondo de vezes em milissegundos:
-    M¡nimo = 358ms, M ximo = 443ms, M‚dia = 406ms
+    M¡nimo = 13ms, M ximo = 38ms, M‚dia = 26ms
 ============================================================== 

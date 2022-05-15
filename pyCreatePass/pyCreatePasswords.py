@@ -46,3 +46,6 @@ def creatPass(size, chars, lower, upper, numbers, simbols):
 
 # Executando o método para criar senha
 creatPass(size, chars, lowerCase, upperCase, numbers, simbols)
+
+#evitando que o terminal feche após a execução do programa
+input("Pressione ENTER para sair...")

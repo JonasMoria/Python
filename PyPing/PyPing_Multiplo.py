@@ -31,3 +31,6 @@ for hosts in targets:
 print("\n")
 print("Alvos Analisados: ")
 print(targets)
+
+#evitando que o terminal feche após a execução do programa
+input("Pressione ENTER para sair...")
