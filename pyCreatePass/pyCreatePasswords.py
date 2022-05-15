@@ -17,14 +17,10 @@ simbols = input("Deseja adicionar Simbolos? [s/n] \n>>>").lower()
 
 # Método para gerar a senha
 def creatPass(size, chars, lower, upper, numbers, simbols):
-    
-    # Cores para formatação do texto
-    RED   = "\033[1;31m" 
-    GREEN = "\033[0;32m"
-    RESET = "\033[0;0m"
+
 
     if size <= 0:
-        print(RED+"Erro, Senha deve conter pelo menos 1 caractere"+RESET)
+        print("Erro, Senha deve conter pelo menos 1 caractere")
     if lower == 's':
         chars += string.ascii_lowercase
     if upper == 's':
@@ -38,9 +34,9 @@ def creatPass(size, chars, lower, upper, numbers, simbols):
 
     try:
         passwd = "".join(rnd.choice(chars) for i in range(size))
-        return print("\nSENHA => "+ GREEN + str(passwd) + RESET)
+        return print("\nSENHA => "+ str(passwd))
     except:
-        print(RED+"Erro, Selecione ao menos uma das opcoes!!"+RESET)
+        print("Erro, Selecione ao menos uma das opcoes!!")
 
 
 
